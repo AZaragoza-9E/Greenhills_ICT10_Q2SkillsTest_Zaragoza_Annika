@@ -1,0 +1,39 @@
+* {
+	color: black;
+	font-family: "Georgia", sans-serif;
+}
+
+h1 {
+    color: black;
+}
+
+body {
+	align-items: center;
+	text-align: center;
+	background: url(https://i.pinimg.com/736x/04/8f/6b/048f6bb709ef0582f3280d9aad1d6573.jpg);
+    background-size: cover;
+}
+
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 10px;
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 100px;
+    background: rgba(255, 255, 255, .1);
+    backdrop-filter: blur(50px);
+}
+
+.div {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 100px;
+    background: rgba(255, 255, 255, .1);
+    backdrop-filter: blur(50px);
+}
